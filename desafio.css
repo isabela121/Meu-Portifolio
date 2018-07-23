@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+}
+
+.conteudo{
+	background-image: url(teste.jpg);
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+
+.menu ul {
+
+    list-style: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2em;
+    padding-top: 20px;
+    height: 50px;
+    text-align: right;
+
+}
+
+.menu ul li{
+    display: inline-block; 
+}
+
+.menu ul li a {
+    padding: 10px 10px;
+    display: inline;
+    transition: color is;
+    
+    /* visual do link */
+    color: #2f3542;
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    background-color:#f7f1e3;
+    color: #2f3542;
+    text-indent: inherit;
+}
+
+.simples{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    height: 180px; 
+    background: #dfe4ea;
+    padding: 10px;
+    line-height: 1.5em;
+    color: #2f3542;
+    text-decoration: none;
+  }
+
+h4{
+    color: #2f3542;
+}
+
+
+h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    color: #0652DD;
+}
+
+
+h5 {
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    color: #2f3542;
+    text-align: left;
+}
+
+
+.sobre{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    height: 180px;
+    padding: 10px;
+    line-height: 1.5em;
+    color: #2f3542;
+    text-decoration: none;
+}
+
+
+.portfolio{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    height: 70px; 
+    padding: 10px;
+    margin-bottom: auto;
+    line-height: 1.5em;
+    color: #2f3542;
+    text-decoration: none;
+ 
+  }
+
+
+.contato{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    height: 180px; 
+    padding: 10px;
+    padding-bottom: 20px;
+    line-height: 1.5em;
+    color: #2f3542;
+    text-decoration: none;
+   
+}
+
+
+.parte{
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
+    font-size: 1.1em;
+    color: #2f3542;
+    text-decoration: none;
+}
+
+
+.parte1{
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
+    font-size: 1.1em;
+    text-decoration: none;
+    text-align: center;  
+}
+
+
+.parte2{
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
+    font-size: 1.1em;
+    color: #2f3542;
+    text-decoration: none;
+}
+
+
+.rodape{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color:#ffffff;
+    font-size:1.0em;
+    height:2.5em;
+    background-color:#0652DD;
+    padding-top: 15px; 
+     
+}
+
+
+footer{
+     max-width: 100%;
+}
